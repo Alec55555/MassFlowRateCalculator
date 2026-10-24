@@ -1,3 +1,0 @@
-C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\MassFlowRateCalculator.dir/objects.a
-C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\MassFlowRateCalculator.dir/objects.a @CMakeFiles\MassFlowRateCalculator.dir\objects1.rsp
-C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\MassFlowRateCalculator.dir/objects.a -Wl,--no-whole-archive -o MassFlowRateCalculator.exe -Wl,--out-implib,libMassFlowRateCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MassFlowRateCalculator.dir\linkLibs.rsp

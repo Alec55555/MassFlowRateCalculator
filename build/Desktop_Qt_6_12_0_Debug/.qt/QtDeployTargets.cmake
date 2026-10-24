@@ -1,3 +1,0 @@
-set(__QT_DEPLOY_TARGETS "MassFlowRateCalculator")
-set(__QT_DEPLOY_TARGET_MassFlowRateCalculator_FILE /home/alec/QtProjects/MassFlowRateComputationApp/MassFlowRateCalculator/build/Desktop_Qt_6_12_0_Debug/MassFlowRateCalculator)
-set(__QT_DEPLOY_TARGET_MassFlowRateCalculator_TYPE EXECUTABLE)
